@@ -1,0 +1,2 @@
+# b595e01f-8264-43f9-b458-79a2723064c4-hero-1
+Hero section variant 1 for b595e01f-8264-43f9-b458-79a2723064c4
